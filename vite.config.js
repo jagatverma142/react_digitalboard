@@ -12,4 +12,6 @@ export default defineConfig({
     }),
     tailwindcss(),
   ],
+  // repository name ko base path set kiya hai
+  base: "/react_digitalboard/", 
 })
